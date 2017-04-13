@@ -17,6 +17,6 @@ for eachline in f:
         print "."*100
         i = i + 1
     else:
-            refline = eachline
+        refline = eachline
 
 
